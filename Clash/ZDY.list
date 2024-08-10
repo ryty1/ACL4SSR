@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,jsdelivr
 DOMAIN-KEYWORD,zerotier
 DOMAIN-KEYWORD,serokvip
 DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,v.id9.cc
 
 # 自定义进程关键词直连
 PROCESS-NAME,zerotier-one
