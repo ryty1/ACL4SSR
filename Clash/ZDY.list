@@ -1,0 +1,7 @@
+# 自定义直连域名关键词直连
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,cloudflareinsights
+DOMAIN-KEYWORD,tailscale
+DOMAIN-KEYWORD,jsdelivr
+DOMAIN-KEYWORD,zerotier
+DOMAIN-KEYWORD,serokvip
