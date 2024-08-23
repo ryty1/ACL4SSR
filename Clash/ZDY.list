@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,v.id9.cc
 PROCESS-NAME,zerotier-one
 
 # 自定义直连域名关键词直连
-# SRC-IP-CIDR,192.168.100.240/32
+SRC-IP-CIDR,192.168.100.240/32
