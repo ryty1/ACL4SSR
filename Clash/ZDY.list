@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,hntobacco
 DOMAIN-KEYWORD,us.kg
 
 # 自定义匹配域名直连
-DOMAIN-SUFFIX,v.id9.cc
+# DOMAIN-SUFFIX,
 
 # 自定义进程关键词直连
 PROCESS-NAME,zerotier-one
