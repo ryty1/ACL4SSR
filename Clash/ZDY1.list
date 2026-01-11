@@ -1,19 +1,9 @@
-# 自定义直连域名关键词直连
+DOMAIN-SUFFIX,jinye.cn
+DOMAIN-SUFFIX,jiayihn.cn
+DOMAIN-SUFFIX,594880.xyz
+DOMAIN-SUFFIX,889269.xyz
+DOMAIN-SUFFIX,nyc.mn
 DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,jiayihn
-DOMAIN-KEYWORD,tailscale
-DOMAIN-KEYWORD,zerotier
 DOMAIN-KEYWORD,serokvip
-DOMAIN-KEYWORD,synology
-DOMAIN-KEYWORD,speedtest
-DOMAIN-KEYWORD,hntobacco
-DOMAIN-KEYWORD,us.kg
+DOMAIN-KEYWORD,wogg
 
-# 自定义匹配域名直连
-# DOMAIN-SUFFIX,
-
-# 自定义进程关键词直连
-PROCESS-NAME,zerotier-one
-
-# 自定义直连域名关键词直连
-SRC-IP-CIDR,192.168.100.240/32
